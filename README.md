@@ -62,7 +62,7 @@ POST request that expects as parameter a form-data with parameter file where you
     curl -v -F file=@localfilename http://localhost:8080/v1/delivery-planner
 ```
 
-You can also run the request via POSTMAN with the [collection](https://github.com/bvigentas/drone-delivery-planner/blob/main/src/main/resources/drone-delivery-planner.postman_collection) or following the image:
+You can also run the request via POSTMAN with the [collection](https://raw.githubusercontent.com/bvigentas/drone-delivery-planner/main/src/main/resources/drone-delivery-planner.postman_collection) or following the image:
 ![img.png](img.png)
 
 ## Main tech
